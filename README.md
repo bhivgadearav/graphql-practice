@@ -1,7 +1,7 @@
 
-# ImageShrink Desktop App
+# Apollo-GraphQL API
 
-A simple desktop app to resize your images.
+A simple REST API for games, reviews etc.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/tutorial-freecodecamp.org-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/5199E50O7SI?si=5nbmRp3-p3YLHG8q)
